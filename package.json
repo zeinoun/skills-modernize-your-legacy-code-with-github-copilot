@@ -1,0 +1,12 @@
+{
+  "name": "accountsystem-node-tests",
+  "version": "0.1.0",
+  "description": "Jest tests and minimal Node module mirroring the COBOL account system for transformation/testing",
+  "main": "src/account.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "accounting-app",
+  "version": "0.1.0",
+  "description": "Node.js port of the COBOL account management app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --colors"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
